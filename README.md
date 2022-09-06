@@ -1,0 +1,2 @@
+# ShoppingJavaEx
+simple java excersice
